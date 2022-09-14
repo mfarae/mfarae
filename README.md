@@ -1,11 +1,3 @@
-```python
-
-Started with a little bit ;
-Now I don't know how to quit !
-```
-
-
-
 <hr> </hr>
 
 <p align="center">
