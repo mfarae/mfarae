@@ -1,5 +1,3 @@
-<hr> </hr>
-
 <p align="center">
   <b> <u> Stuffs Going On... </u> </b>
   <br/>
