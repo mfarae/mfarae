@@ -1,11 +1,3 @@
-<h1 align="center" > <b> Whoami ?  </b> </h1>
-
-<h4 align="center"> I’m Farae <I> aka </I> mfarae :sunglasses:  :ghost: </h4>
-<h4 align="center"> Aspiring Developer :face_in_clouds: </h4>
-<h4 align="center"> Believes in the fact that <b><i>"Knowledge is Open-Source" :muscle: </i></b> </h4>
-<br></br>
-
-
 ```python
 
 Started with a little bit ;
