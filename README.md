@@ -4,8 +4,8 @@ Hi, My Name is <strong>Farae</strong>,
 
 <hr>
 
-<strong> You can reach me at: </strong> 
-<p> 📫 u2020292@giki.edu.pk </p>
+<!--<strong> You can reach me at: </strong> 
+<p> 📫 muhammad.farae@gmail.com </p>-->
 
 <hr>
 
