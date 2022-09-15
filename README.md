@@ -1,3 +1,15 @@
+Hi, My Name is <strong>Farae</strong>,
+
+<!--I use this playform to collaborate with people working on the same project as me as well as showcase the projects I have made independently.-->
+
+<hr>
+
+<strong> You can reach me at: </strong> 
+<p> 📫 u2020292@giki.edu.pk </p>
+
+<hr>
+
+
 <p align="center">
   <b> <u> Stuffs Going On... </u> </b>
   <br/>
