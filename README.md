@@ -92,7 +92,7 @@ Hi, My Name is <strong>Farae</strong>,
   <a href="https://github.com/anuraghazra/convoychat">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfarae&langs_count=10)](https://github.com/anuraghazra/github-readme-stats&theme=radical" />
 </a>
-  <br></br>
+<!--   <br></br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=mfarae&show_icons=true&theme=radical" />
 </a>
@@ -101,7 +101,7 @@ Hi, My Name is <strong>Farae</strong>,
 
 [![Farae's github activity graph](https://activity-graph.herokuapp.com/graph?username=mfarae&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br></br>
+<br></br> -->
 
 
 <hr>
