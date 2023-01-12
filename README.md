@@ -88,10 +88,10 @@ Hi, My Name is <strong>Farae</strong>,
 <br></br>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/anuraghazra/convoychat">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfarae&langs_count=10)](https://github.com/anuraghazra/github-readme-stats&theme=radical" />
-</a>
+</a> -->
 <!--   <br></br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=mfarae&show_icons=true&theme=radical" />
@@ -104,4 +104,3 @@ Hi, My Name is <strong>Farae</strong>,
 <br></br> -->
 
 <!--<a href="https://stackoverflow.com/users/18259104/ritvik-prasad">-->
-<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow"> </a>
